@@ -12,4 +12,4 @@ Aula da Digital Innovation One "Recriando a página inicial do Instagram"
 
 ## Preview da aplicação
 
-![] (https://user-images.githubusercontent.com/56196766/100932514-bdf63700-34ca-11eb-9552-d2d982fa34ca.jpg)
+<img src="https://user-images.githubusercontent.com/56196766/100932514-bdf63700-34ca-11eb-9552-d2d982fa34ca.jpg" />
